@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Hishaam</h1>
-<h3 align="center">I'm an aspiring web developer with a passion for creating dynamic and user-friendly websites. As a recent graduate in B.Tech Computer Science and Engineering, I am eager to embark on a rewarding journey in the field of web development. I am currently seeking opportunities to kickstart my career in web development, where I can leverage my skills and knowledge to contribute to dynamic and impactful projects. I am excited about the prospect of working with like-minded professionals in a collaborative environment that fosters continuous learning and creativity.</h3>
+<h3 align="left">I'm an aspiring web developer with a passion for creating dynamic and user-friendly websites. As a recent graduate in B.Tech Computer Science and Engineering, I am eager to embark on a rewarding journey in the field of web development. I am currently seeking opportunities to kickstart my career in web development, where I can leverage my skills and knowledge to contribute to dynamic and impactful projects. I am excited about the prospect of working with like-minded professionals in a collaborative environment that fosters continuous learning and creativity.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
